@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2RUggxabgUvd/qjQjguHIkL53glml66v4/BWpiPXOxxFYlhxFSIkay83cB/bond9n2mIkkFC2mBK5vLOZO472A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.data\\cticbackend.data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose Carlos\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Jose Carlos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jose Carlos\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jose Carlos\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Jose Carlos\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Jose Carlos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

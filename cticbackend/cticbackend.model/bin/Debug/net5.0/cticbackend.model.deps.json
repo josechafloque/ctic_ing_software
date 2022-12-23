@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cticbackend.model/1.0.0": {
+        "runtime": {
+          "cticbackend.model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cticbackend.model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

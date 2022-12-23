@@ -1,0 +1,22 @@
+<div class="title">
+    <h1>Ver Usuario</h1>
+</div>
+<!-- <div *ngIf="mascota$ | async as mascota" class="container"> -->
+<app-spinner *ngIf="loading"></app-spinner>
+<div *ngIf="usuario != null" class="container">
+    <mat-card class="card">
+        <mat-card-title>Id Usuario:  {{ usuario.id }}</mat-card-title>
+        <mat-card-content>
+            <p><strong>Nombre:</strong> {{ usuario.nombre }} </p>
+            <p><strong>Apellido:</strong> {{ usuario.apellido }} </p>
+            <p><strong>Dni:</strong> {{ usuario.dni }} </p>
+            <p><strong>Correo:</strong> {{ usuario.correo }} </p>
+            <p><strong>Contrasena:</strong> {{ usuario.contrasena }} </p>
+            <p><strong>Telefono:</strong> {{ usuario.telefono }} </p>
+            <p><strong>id_rol:</strong> {{ usuario.id_rol }} </p>
+        </mat-card-content>
+        <mat-card-actions>
+            <button routerLink="/listUsuarios" mat-raised-button>Volver</button>
+        </mat-card-actions>
+    </mat-card>
+</div>

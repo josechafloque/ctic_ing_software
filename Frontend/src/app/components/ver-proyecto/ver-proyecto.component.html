@@ -1,0 +1,21 @@
+<div class="title">
+    <h1>Ver Proyecto</h1>
+</div>
+<!-- <div *ngIf="mascota$ | async as mascota" class="container"> -->
+<app-spinner *ngIf="loading"></app-spinner>
+<div *ngIf="detalle_proyecto != null" class="container">
+    <mat-card class="card">
+        <mat-card-title>Id Proyecto:  {{ detalle_proyecto.id }}</mat-card-title>
+        <mat-card-content>
+            <p><strong>Fecha_Registro:</strong> {{ detalle_proyecto.fecha_registro }} </p>
+            <p><strong>Id_Jefe_Proyectos:</strong> {{ detalle_proyecto.id_usuario_responsable }} </p>
+            <p><strong>Nombre:</strong> {{ detalle_proyecto.nombre }} </p>
+            <p><strong>Apellido:</strong> {{ detalle_proyecto.apellido }} </p>
+            <p><strong>Nombre_proyecto:</strong> {{ detalle_proyecto.nombre_proyecto}} </p>
+
+        </mat-card-content>
+        <mat-card-actions>
+            <button routerLink="/listProyectos" mat-raised-button>Volver</button>
+        </mat-card-actions>
+    </mat-card>
+</div>
