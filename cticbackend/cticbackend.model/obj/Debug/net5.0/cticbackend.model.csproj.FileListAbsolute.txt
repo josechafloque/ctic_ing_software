@@ -22,3 +22,15 @@ C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\soft-
 C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\soft-ctic\cticbackend\cticbackend.model\obj\Debug\net5.0\refint\cticbackend.model.dll
 C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\soft-ctic\cticbackend\cticbackend.model\obj\Debug\net5.0\cticbackend.model.pdb
 C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\soft-ctic\cticbackend\cticbackend.model\obj\Debug\net5.0\ref\cticbackend.model.dll
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\bin\Debug\net5.0\cticbackend.model.deps.json
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\bin\Debug\net5.0\cticbackend.model.dll
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\bin\Debug\net5.0\ref\cticbackend.model.dll
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\bin\Debug\net5.0\cticbackend.model.pdb
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\obj\Debug\net5.0\cticbackend.model.csproj.AssemblyReference.cache
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\obj\Debug\net5.0\cticbackend.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\obj\Debug\net5.0\cticbackend.model.AssemblyInfoInputs.cache
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\obj\Debug\net5.0\cticbackend.model.AssemblyInfo.cs
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\obj\Debug\net5.0\cticbackend.model.csproj.CoreCompileInputs.cache
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\obj\Debug\net5.0\cticbackend.model.dll
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\obj\Debug\net5.0\ref\cticbackend.model.dll
+C:\Users\Jose Carlos\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\CTIC\ctic_ing_software\cticbackend\cticbackend.model\obj\Debug\net5.0\cticbackend.model.pdb

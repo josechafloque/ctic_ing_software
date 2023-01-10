@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.data\\cticbackend.data.csproj": {}
+    "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.data\\cticbackend.data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.data\\cticbackend.data.csproj": {
+    "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.data\\cticbackend.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.data\\cticbackend.data.csproj",
+        "projectUniqueName": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.data\\cticbackend.data.csproj",
         "projectName": "cticbackend.data",
-        "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.data\\cticbackend.data.csproj",
+        "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.data\\cticbackend.data.csproj",
         "packagesPath": "C:\\Users\\Jose Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.data\\obj\\",
+        "outputPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jose Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.model\\cticbackend.model.csproj": {
-                "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.model\\cticbackend.model.csproj"
+              "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.model\\cticbackend.model.csproj": {
+                "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.model\\cticbackend.model.csproj"
               }
             }
           }
@@ -59,8 +59,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -69,18 +68,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.model\\cticbackend.model.csproj": {
+    "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.model\\cticbackend.model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.model\\cticbackend.model.csproj",
+        "projectUniqueName": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.model\\cticbackend.model.csproj",
         "projectName": "cticbackend.model",
-        "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.model\\cticbackend.model.csproj",
+        "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.model\\cticbackend.model.csproj",
         "packagesPath": "C:\\Users\\Jose Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.model\\obj\\",
+        "outputPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jose Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,8 +113,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -124,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

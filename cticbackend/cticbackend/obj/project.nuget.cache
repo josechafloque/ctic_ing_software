@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ki68VhQRhjQvtpw/xASC8UdIjDVu9KF9I2XOvvVizeSUlR2k1XiKmwV9Af060/0jrP8haJ/x7yo7C/ouoxI3qA==",
+  "dgSpecHash": "IYI2a5B+F31s9qrhdvE+k1mTbyJmypHi/HkFJbQvTb73vFrMYu5K6yR+X6EDyzfWjIm3q4MGj2ph2/ykzO2f5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend\\cticbackend.csproj",
+  "projectFilePath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend\\cticbackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Carlos\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Jose Carlos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

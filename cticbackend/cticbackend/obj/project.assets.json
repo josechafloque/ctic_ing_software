@@ -5,14 +5,10 @@
       "Dapper/2.0.123": {
         "type": "package",
         "compile": {
-          "lib/net5.0/Dapper.dll": {
-            "related": ".xml"
-          }
+          "lib/net5.0/Dapper.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Dapper.dll": {
-            "related": ".xml"
-          }
+          "lib/net5.0/Dapper.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
@@ -33,14 +29,10 @@
           "System.Memory": "4.5.4"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -49,14 +41,10 @@
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         }
       },
       "Npgsql/7.0.0": {
@@ -66,14 +54,10 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         },
         "compile": {
-          "lib/net5.0/Npgsql.dll": {
-            "related": ".xml"
-          }
+          "lib/net5.0/Npgsql.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Npgsql.dll": {
-            "related": ".xml"
-          }
+          "lib/net5.0/Npgsql.dll": {}
         }
       },
       "Swashbuckle.AspNetCore/5.6.3": {
@@ -94,14 +78,10 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -113,14 +93,10 @@
           "Swashbuckle.AspNetCore.Swagger": "5.6.3"
         },
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -129,14 +105,10 @@
       "Swashbuckle.AspNetCore.SwaggerUI/5.6.3": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -163,14 +135,10 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -509,11 +477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend\\cticbackend.csproj",
+      "projectUniqueName": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend\\cticbackend.csproj",
       "projectName": "cticbackend",
-      "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend\\cticbackend.csproj",
+      "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend\\cticbackend.csproj",
       "packagesPath": "C:\\Users\\Jose Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend\\obj\\",
+      "outputPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jose Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -530,11 +498,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.data\\cticbackend.data.csproj": {
-              "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.data\\cticbackend.data.csproj"
+            "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.data\\cticbackend.data.csproj": {
+              "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.data\\cticbackend.data.csproj"
             },
-            "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.model\\cticbackend.model.csproj": {
-              "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\ctic\\cticbackend\\cticbackend.model\\cticbackend.model.csproj"
+            "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.model\\cticbackend.model.csproj": {
+              "projectPath": "C:\\Users\\Jose Carlos\\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\\Desktop\\CTIC\\ctic_ing_software\\cticbackend\\cticbackend.model\\cticbackend.model.csproj"
             }
           }
         }
@@ -560,8 +528,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -573,7 +540,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
